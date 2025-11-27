@@ -3,7 +3,7 @@
 I'm a Computer Science & Psychology student passionate about building technology that improves lives.
 
 ### 🧠 Tech Meets Psychology
-I'm especially interested in how psychology can enhance tech — from designing user-centered experiences to creating tools that support mental health, learning, and behavior change. I believe that empathy-driven, human-aware technology is the future.
+I'm especially interested in how psychology can enhance tech from designing user-centered experiences to creating tools that support mental health, learning, and behavior change. I believe that empathy-driven, human-aware technology is the future.
 
 ### 🌱 What I'm Learning
 - C++ for programming fundamentals and problem-solving  
